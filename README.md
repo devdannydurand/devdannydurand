@@ -1,4 +1,4 @@
-# I am Danny Daniel Durand <img src="https://api.iconify.design/lucide:bug.svg?color=%2300FF00" width="32" align="top">
+# I am Danny Daniel Durand <img src="https://api.iconify.design/mdi:caterpillar.svg?color=%2300FF00" width="32" align="top">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
@@ -19,18 +19,18 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <table width="100%">
   <tr>
-    <td width="33%">1. Docker&nbsp;Desktop</td>
-    <td width="33%">2. Visual&nbsp;Studio</td>
-    <td width="33%">3. MySQL&nbsp;Workbench</td>
+    <td width="33%">Docker&nbsp;Desktop</td>
+    <td width="33%">Visual&nbsp;Studio</td>
+    <td width="33%">MySQL&nbsp;Workbench</td>
   </tr>
   <tr>
-    <td>4. IntelliJ&nbsp;IDEA</td>
-    <td>5. SourceTree</td>
-    <td>6. Postman</td>
+    <td>IntelliJ&nbsp;IDEA</td>
+    <td>SourceTree</td>
+    <td>Postman</td>
   </tr>
   <tr>
-    <td>7. XAMPP</td>
-    <td>8. DaVinci&nbsp;Resolve</td>
+    <td>XAMPP</td>
+    <td>DaVinci&nbsp;Resolve</td>
     <td></td>
   </tr>
 </table>
@@ -42,12 +42,12 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <table width="100%">
   <tr>
-    <td width="33%">1. Java</td>
-    <td width="33%">2. JavaScript</td>
-    <td width="33%">3. HTML</td>
+    <td width="33%">Java</td>
+    <td width="33%">JavaScript</td>
+    <td width="33%">HTML</td>
   </tr>
   <tr>
-    <td>4. CSS</td>
+    <td>CSS</td>
     <td></td>
     <td></td>
   </tr>
@@ -60,8 +60,8 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <table width="100%">
   <tr>
-    <td width="33%">1. Tailwind&nbsp;CSS</td>
-    <td width="33%">2. Vue.js</td>
+    <td width="33%">Tailwind&nbsp;CSS</td>
+    <td width="33%">Vue.js</td>
     <td width="33%"></td>
   </tr>
 </table>
