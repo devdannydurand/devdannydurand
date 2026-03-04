@@ -5,6 +5,7 @@
 <img src="./forever-growing!.png" width="200" align="right" alt="Forever growing beetle">
 
 Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training program. My focus is simple: building solid backend logic and clean, functional frontend interfaces. I'm all about writing maintainable code, solving real problems, and soaking up knowledge from experienced teams.
+
 <br>
 <a href="mailto:dev.dannydurand@gmail.com">
   <img src="https://img.shields.io/badge/Email-dev.dannydurand@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
