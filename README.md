@@ -6,41 +6,65 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <br>
 
-**<img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="center"> Contact Me**
-<img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
+**<img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="center"> Contact Me**<br>
+<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
 
+<br>
 <a href="mailto:dev.dannydurand@gmail.com">
   <img src="https://img.shields.io/badge/Email-dev.dannydurand@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
 </a>
+<br><br>
+
+**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**<br>
+<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
+
+<table width="100%">
+  <tr>
+    <td width="33%">1. Docker Desktop</td>
+    <td width="33%">2. Visual Studio</td>
+    <td width="33%">3. MySQL Workbench</td>
+  </tr>
+  <tr>
+    <td>4. IntelliJ IDEA</td>
+    <td>5. SourceTree</td>
+    <td>6. Postman</td>
+  </tr>
+  <tr>
+    <td>7. XAMPP</td>
+    <td>8. DaVinci Resolve</td>
+    <td></td>
+  </tr>
+</table>
 
 <br>
 
-**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**
-<img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
+**<img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="center"> Programming Languages**<br>
+<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
 
-1. Docker Desktop
-2. Visual Studio
-3. MySQL Workbench
-4. IntelliJ IDEA
-5. SourceTree
-6. Postman
-7. XAMPP
-8. DaVinci Resolve
-
-<br>
-
-**<img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="center"> Programming Languages**
-<img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
-
-1. Java
-2. JavaScript
-3. HTML
-4. CSS
+<table width="100%">
+  <tr>
+    <td width="33%">1. Java</td>
+    <td width="33%">2. JavaScript</td>
+    <td width="33%">3. HTML</td>
+  </tr>
+  <tr>
+    <td>4. CSS</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <br>
 
-**<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**
-<img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
+**<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**<br>
+<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
 
-1. Tailwind CSS
-2. Vue.js
+<table width="100%">
+  <tr>
+    <td width="33%">1. Tailwind CSS</td>
+    <td width="33%">2. Vue.js</td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
+<br>
