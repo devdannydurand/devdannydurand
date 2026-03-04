@@ -8,7 +8,6 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 **<img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="center"> Contact Me**<br>
 <img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
-
 <br>
 <a href="mailto:dev.dannydurand@gmail.com">
   <img src="https://img.shields.io/badge/Email-dev.dannydurand@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
