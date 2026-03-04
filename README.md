@@ -19,18 +19,18 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <table width="100%">
   <tr>
-    <td width="33%">1. Docker Desktop</td>
-    <td width="33%">2. Visual Studio</td>
-    <td width="33%">3. MySQL Workbench</td>
+    <td width="33%">1. Docker&nbsp;Desktop</td>
+    <td width="33%">2. Visual&nbsp;Studio</td>
+    <td width="33%">3. MySQL&nbsp;Workbench</td>
   </tr>
   <tr>
-    <td>4. IntelliJ IDEA</td>
+    <td>4. IntelliJ&nbsp;IDEA</td>
     <td>5. SourceTree</td>
     <td>6. Postman</td>
   </tr>
   <tr>
     <td>7. XAMPP</td>
-    <td>8. DaVinci Resolve</td>
+    <td>8. DaVinci&nbsp;Resolve</td>
     <td></td>
   </tr>
 </table>
@@ -60,7 +60,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <table width="100%">
   <tr>
-    <td width="33%">1. Tailwind CSS</td>
+    <td width="33%">1. Tailwind&nbsp;CSS</td>
     <td width="33%">2. Vue.js</td>
     <td width="33%"></td>
   </tr>
