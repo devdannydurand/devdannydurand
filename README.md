@@ -1,6 +1,6 @@
-# ¡Hola, soy [Tu Nombre]! 🦋
+# I am Danny Daniel Durand 🦋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Amante+del+código...+y+los+insectos!🪲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
 Acabo de terminar mi Grado Superior y soy un desarrollador junior con muchas ganas de comerme el mundo (o al menos, de programarlo). Me encanta construir soluciones sólidas y aprender cosas nuevas cada día. Cuando no estoy peleándome con el código, probablemente esté buscando algún escarabajo rinoceronte. 🐝
 
