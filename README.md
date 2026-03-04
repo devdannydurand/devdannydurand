@@ -33,6 +33,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00" alt="JS"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00" alt="HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00" alt="CSS"></a>
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00" alt="PHP"></a>
 
 <br><br>
 
