@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
 
-<a href="mailto:TU_CORREO@gmail.com">
+<a href="mailto:dev.dannydurand@gmail.com">
   <img src="https://img.shields.io/badge/Email-TU__CORREO@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
 </a>
 
