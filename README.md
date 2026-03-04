@@ -14,7 +14,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 </a>
 <br><br>
 
-**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies i use daily**<br>
+**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**<br>
 <img src="https://singlecolorimage.com/get/00FF00/1000x1" width="100%" height="1" alt="terminal green line">
 <br>
 <img src="https://img.shields.io/badge/Docker_Desktop-000000?style=for-the-badge&logo=docker&logoColor=00FF00" alt="Docker">
