@@ -6,16 +6,16 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <br>
 
-**<img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="center"> Contact Me**<br>
+**<img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="center"> Contact Me**
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
-<br>
 <a href="mailto:dev.dannydurand@gmail.com">
   <img src="https://img.shields.io/badge/Email-dev.dannydurand@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
 </a>
-<br><br>
 
-**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**<br>
+<br>
+
+**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
 1. Docker Desktop
@@ -29,7 +29,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <br>
 
-**<img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="center"> Programming Languages**<br>
+**<img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="center"> Programming Languages**
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
 1. Java
@@ -39,10 +39,8 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <br>
 
-**<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**<br>
+**<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
 1. Tailwind CSS
 2. Vue.js
-
-<br>
