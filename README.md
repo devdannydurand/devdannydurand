@@ -21,3 +21,22 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 • Docker Desktop       • Visual Studio        • MySQL Workbench
 • IntelliJ IDEA        • SourceTree           • Postman
 • XAMPP                • DaVinci Resolve
+```
+<br>
+
+**<img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="center"> Programming Languages**<br>
+<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
+
+```text
+• Java                 • JavaScript           • HTML
+• CSS
+```
+<br>
+
+**<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**<br>
+<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
+
+```text
+• Tailwind CSS         • Vue.js
+```
+<br>
