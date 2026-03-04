@@ -10,6 +10,7 @@
 <a href="mailto:dev.dannydurand@gmail.com">
   <img src="https://img.shields.io/badge/Email-dev.dannydurand@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
 </a>
+
 ### Tools & Technologies
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 1. Docker Desktop
@@ -29,6 +30,7 @@
 3. HTML
 4. CSS
 <br>
+
 ### Frameworks
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 1. Tailwind CSS
