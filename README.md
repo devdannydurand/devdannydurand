@@ -21,6 +21,7 @@
 7. XAMPP
 8. DaVinci Resolve
 <br>
+
 ### Programming Languages
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 1. Java
