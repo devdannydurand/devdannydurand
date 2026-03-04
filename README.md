@@ -6,7 +6,7 @@
 
 
 <a href="mailto:dev.dannydurand@gmail.com">
-  <img src="https://img.shields.io/badge/Email-TU__CORREO@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
+  <img src="https://img.shields.io/badge/Email-dev.dannydurand@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Contact Email">
 </a>
 
 ### 🛠️ Tools & Technologies
