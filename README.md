@@ -1,33 +1,23 @@
-<div align="center">
-Hey, I'm [Tu Nombre] 🪲
-Junior Web Developer · Spain
-"Strong foundations, steady builds."
-</div>
+# ¡Hola, soy [Tu Nombre]! 🦋
 
-I'm [Tu Nombre], a junior web developer based in Spain. I focus on building clean, functional interfaces and integrating them with solid backends. I enjoy understanding how systems work from the inside out — whether it's a codebase or the natural world 🪲
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Amante+del+código...+y+los+insectos!🪲)](https://git.io/typing-svg)
 
-🛠️ Lately I've been working with
+Acabo de terminar mi Grado Superior y soy un desarrollador junior con muchas ganas de comerme el mundo (o al menos, de programarlo). Me encanta construir soluciones sólidas y aprender cosas nuevas cada día. Cuando no estoy peleándome con el código, probablemente esté buscando algún escarabajo rinoceronte. 🐝
 
-Frontend: Building interfaces with JavaScript, HTML & CSS
-Backend: Learning server-side logic and APIs
-DevOps & Tools: Git, npm, and containerized environments
+### 💻 Mi Stack Técnico (y lo que he dominado en el grado):
+* **Frontend:** HTML5, CSS3, JavaScript. Creando interfaces dinámicas y atractivas.
+* **Backend:** Java. Preparado para la lógica de servidor y programación orientada a objetos pura y dura.
+* **Bases de Datos:** Diseño y gestión de bases de datos relacionales (SQL).
+* **Herramientas & Workflow:** Git, GitHub. Trabajo en equipo, control de versiones y buenas prácticas.
 
+### 🚀 Buscando mi primera aventura profesional
+Estoy súper motivado para entrar al mundo laboral. Aporto una base fresca del ciclo formativo: desde la lógica de programación y resolución de problemas, hasta el despliegue de aplicaciones. ¡Listo para picar código del bueno!
 
-🔧 Tools & Tech I've used
-CategoryTechnologiesLanguages & FrameworksJavaScript, HTML & CSS (Bootstrap), PHPDatabases & DevOpsMySQL, Docker, XAMPPTesting & AutomationPostman, Git, npmDesign & CreativeFigma, CanvaSystemsLinux, Windows, VMwareIDEsVS Code, WebStorm
+### 🐛 Fun Facts sobre mí:
+* Soy un friki de los insectos. Mi absoluto favorito es el escarabajo rinoceronte 🪲.
+* Siempre estoy dispuesto a aprender un framework o lenguaje nuevo.
+* Mi código compila a la primera... a veces. 😅
 
-📌 Fun Facts
-
-🪲 I find beetles endlessly fascinating — especially Dynastes hercules, the strongest animal on Earth relative to its size
-🧠 I believe the best engineers study systems in nature before they study code
-📍 Based in Spain
-
-
-📬 Contact
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=green&style=flat" alt="profile views"/>
-</div>
+---
+*¿Quieres conectar y hablar de código (o de mariposas)? ¡Escríbeme!*
+[Tu Email / Link a tu LinkedIn aquí]
