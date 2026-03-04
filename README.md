@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
+Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training program . My focus is simple: building solid backend logic and clean, functional frontend interfaces. I'm all about writing maintainable code, solving real problems, and soaking up knowledge from experienced teams.
+
 ### 📬 Contact Me
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
