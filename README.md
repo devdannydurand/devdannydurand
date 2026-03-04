@@ -16,27 +16,32 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 **<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**<br>
 <img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
-
-```text
-• Docker Desktop       • Visual Studio        • MySQL Workbench
-• IntelliJ IDEA        • SourceTree           • Postman
-• XAMPP                • DaVinci Resolve
-```
 <br>
+<img src="https://img.shields.io/badge/Docker_Desktop-000000?style=for-the-badge&logo=docker&logoColor=00FF00" alt="Docker">
+<img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=00FF00" alt="VS">
+<img src="https://img.shields.io/badge/MySQL_Workbench-000000?style=for-the-badge&logo=mysql&logoColor=00FF00" alt="MySQL">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=00FF00" alt="IntelliJ">
+<img src="https://img.shields.io/badge/SourceTree-000000?style=for-the-badge&logo=sourcetree&logoColor=00FF00" alt="SourceTree">
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF00" alt="Postman">
+<img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=00FF00" alt="XAMPP">
+<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=00FF00" alt="DaVinci">
+
+<br><br>
 
 **<img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="center"> Programming Languages**<br>
 <img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
-
-```text
-• Java                 • JavaScript           • HTML
-• CSS
-```
 <br>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF00" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00" alt="JS">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00" alt="CSS">
+
+<br><br>
 
 **<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**<br>
 <img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
+<br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF00" alt="Tailwind">
+<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=00FF00" alt="Vue">
 
-```text
-• Tailwind CSS         • Vue.js
-```
 <br>
