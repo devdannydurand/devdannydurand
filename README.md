@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
+<img src="./forever-growing!.png" width="200" align="right" alt="Forever growing beetle">
+
 Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training program. My focus is simple: building solid backend logic and clean, functional frontend interfaces. I'm all about writing maintainable code, solving real problems, and soaking up knowledge from experienced teams.
 
-<br>
-<div align="center">
-  <img src="./forever-growing!.png" width="150" alt="Forever growing beetle">
-</div>
-<br>
+<br><br><br>
 
 **<img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="center"> Contact Me**<br>
 <img src="https://singlecolorimage.com/get/00FF00/1000x1" width="100%" height="1" alt="terminal green line">
