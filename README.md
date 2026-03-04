@@ -1,4 +1,4 @@
-# I am Danny Daniel Durand
+# I am Danny Durand
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
