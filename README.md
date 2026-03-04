@@ -6,7 +6,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <br>
 <div align="center">
-  <img src="./forever-growing!.png" width="400" alt="Forever growing beetle">
+  <img src="./forever-growing!.png" width="90" alt="Forever growing beetle">
 </div>
 <br>
 
