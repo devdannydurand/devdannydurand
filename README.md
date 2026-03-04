@@ -1,4 +1,4 @@
-# I am Danny Daniel Durand <img src="https://api.iconify.design/lucide:bug.svg?color=%2300FF00" width="32" align="top">
+# I am Danny Daniel Durand <img src="https://api.iconify.design/game-icons:mantis.svg?color=%2300FF00" width="35" align="top">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 </a>
 <br><br>
 
-**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**<br>
+**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies i use daily**<br>
 <img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="1" alt="terminal green line">
 <br>
 <img src="https://img.shields.io/badge/Docker_Desktop-000000?style=for-the-badge&logo=docker&logoColor=00FF00" alt="Docker">
@@ -39,7 +39,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 <br><br>
 
 **<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**<br>
-<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="2" alt="terminal green line">
+<img src="https://singlecolorimage.com/get/00FF00/1000x2" width="100%" height="1" alt="terminal green line">
 <br>
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF00" alt="Tailwind">
 <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=00FF00" alt="Vue">
