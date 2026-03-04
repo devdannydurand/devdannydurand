@@ -1,10 +1,12 @@
-# I am Danny Daniel Durand 🐛
+# I am Danny Daniel Durand <img src="https://api.iconify.design/lucide:bug.svg?color=%2300FF00" width="32" align="top">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F252&width=435&lines=Junior+Developer;Creative+solutions;Bug+catching)](https://git.io/typing-svg)
 
 Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training program. My focus is simple: building solid backend logic and clean, functional frontend interfaces. I'm all about writing maintainable code, solving real problems, and soaking up knowledge from experienced teams.
 
-### <img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="top"> Contact Me
+<br>
+
+**<img src="https://api.iconify.design/ic:baseline-mail.svg?color=%2300FF00" width="24" align="center"> Contact Me**<br>
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
 <br>
@@ -13,7 +15,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 </a>
 <br><br>
 
-### <img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="top"> Tools & Technologies
+**<img src="https://api.iconify.design/ic:baseline-build.svg?color=%2300FF00" width="24" align="center"> Tools & Technologies**<br>
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
 1. Docker Desktop
@@ -27,7 +29,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <br>
 
-### <img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="top"> Programming Languages
+**<img src="https://api.iconify.design/ic:baseline-code.svg?color=%2300FF00" width="24" align="center"> Programming Languages**<br>
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
 1. Java
@@ -37,7 +39,7 @@ Hi there! I'm a Junior Developer fresh out of a Higher Vocational Training progr
 
 <br>
 
-### <img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="top"> Frameworks
+**<img src="https://api.iconify.design/ic:baseline-layers.svg?color=%2300FF00" width="24" align="center"> Frameworks**<br>
 <img src="https://singlecolorimage.com/get/00FF00/400x2" width="400" height="2" alt="terminal green line">
 
 1. Tailwind CSS
